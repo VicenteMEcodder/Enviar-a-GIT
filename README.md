@@ -14,4 +14,4 @@
 # Comandos Extra
 1. git status 
 2. git clone
-3. gi pull
+3. git pull
